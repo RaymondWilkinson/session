@@ -1,5 +1,5 @@
 {
-    "name": "laraport/session",
+    "name": "raymondwilkinson/session",
     "description": "Unofficial port of laravel's illuminate/session.",
     "keywords": ["standalone", "session", "illuminate", "laravel"],
     "license": "MIT",
